@@ -1,5 +1,5 @@
 ---
-title: Will it be this?
+title: Made some changes to ensure Cloudflare Pages works
 draft: false
 tags:
   - example-tag
