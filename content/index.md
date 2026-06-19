@@ -10,3 +10,9 @@ My primary hobbies are paragliding, Magic: The Gathering (Commander), and videog
 In the future, I want to build things that have a wide positive impact on people. Ideally this would be in clean tech manufacturing. When looking at the big picture, I have a utilitarian mindset.
 
 I am easily excitable when approaching a new project, and I am incredibly tenacious when I make a decision. Consequently, I am very carful when picking up a new torch since I know that I will suffer immensely if it means that I make it to the finish line.
+
+[Check out my YouTube channel](https://www.youtube.com/@lifeofleoua6695)
+[Check out my LinkedIn](https://www.linkedin.com/in/elior-bilow/)
+
+> [!tldr]- Curriculum Vitae (CV)
+> ![[2026-06 Elior Bilow CV.pdf]]
