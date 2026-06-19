@@ -4,6 +4,8 @@ draft: true
 tags:
   - example-tag
 ---
+**To push changes use `npx quartz sync`, NOT `git push`!!!**
+
 If the draft box is checked, it will not be shown on the site.
 The "Title" property is what will be displayed on the website, not the name of the note.
 
