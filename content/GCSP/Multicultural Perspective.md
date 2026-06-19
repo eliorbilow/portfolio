@@ -2,7 +2,7 @@
 title: Multicultural Perspective
 draft: false
 tags:
-  - example-tag
+  - research
 ---
 # Becoming a Spaniard
 # Motives

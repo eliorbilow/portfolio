@@ -6,6 +6,7 @@ tags:
   - pcb-design
   - product-design
   - 3D-printing
+  - projects
 ---
 YouTube: [https://www.youtube.com/watch?v=fGJMsBuuvgI](https://www.youtube.com/watch?v=fGJMsBuuvgI)  
 Thingiverse: https://www.thingiverse.com/thing:7169223

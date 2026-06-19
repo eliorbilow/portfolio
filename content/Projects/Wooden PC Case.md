@@ -4,6 +4,7 @@ draft: false
 tags:
   - woodworking
   - CNC
+  - projects
 ---
 # Background
 I started this project in High School when I was building a PC for myself. All of the cases that I saw weren't appealing because they didn't match the aesthetic of my parent's cabin-like house, so I designed and built my own. Now I am trying to refine the design to make it scalable.

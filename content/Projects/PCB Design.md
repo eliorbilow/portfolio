@@ -4,6 +4,8 @@ draft: false
 tags:
   - pcb-design
   - HSD
+  - projects
+  - experiments
 ---
 Taken at CU Boulder in Fall '25.
 Click the image for reports.

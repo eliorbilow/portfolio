@@ -3,6 +3,7 @@ title: Temperature comparer
 draft: false
 tags:
   - ESD
+  - projects
 ---
 # Purpose
 I do not like paying for air conditioning. Instead, I try my best to open the windows when it's cooler outside than it is inside, and I close the windows when it's hotter outside than it is inside. Currently, the best way I have to compare the outdoor and indoor temperatures is by using a heat gun to measure the indoor temperature and checking a weather app to get the outdoor temperature. This project uses a simple circuit to notify me if the temperature outside is hotter than it is inside, thereby letting me know when to close the windows.

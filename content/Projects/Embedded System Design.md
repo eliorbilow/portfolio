@@ -4,6 +4,7 @@ draft: false
 tags:
   - ESD
   - microcontrollers
+  - projects
 ---
 Taken at CU Boulder in Fall '25.  
 
