@@ -1,6 +1,6 @@
 ---
 title: Made some changes to ensure Cloudflare Pages works
-draft: false
+draft: true
 tags:
   - example-tag
 ---

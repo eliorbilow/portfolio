@@ -2,7 +2,7 @@
 title: Gallery Template
 description: A template for creating image galleries in your Quartz website
 tags: gallery, template, images
-draft: false
+draft: true
 layout: default
 gallery:
   columns: 3
